@@ -8,27 +8,28 @@ con un simulador**, con cuál y en qué semestre.
 
 ## Cifras de portada
 
-- **38 asignaturas** con simulador
-- **19** de aplicación directa · **19** como apoyo al curso
-- **24 simuladores**: 19 CompanyGame + 5 nuevos desarrollos SNC (PraxiLab)
-- **4 pregrados**: Administración de Empresas, Comercio Internacional, Contaduría Pública y
-  Economía. Cubren los semestres 1 a 8.
+- **51 asignaturas** con simulador
+- **25** de aplicación directa · **26** como apoyo al curso
+- **28 simuladores**: 23 CompanyGame + 5 nuevos desarrollos SNC (PraxiLab)
+- **5 pregrados**: Administración de Empresas, Administración de Negocios Turísticos y
+  Hoteleros, Comercio Internacional, Contaduría Pública y Economía. Cubren los semestres 1 a 8.
 
-Fuente: Excel del mapeo curricular de la UAN (revisado el 5-nov-2026).
+Fuente: Excel del mapeo curricular de la UAN (revisado el 6-nov-2026).
 
-## Contenido: 11 slides (≈ 22 minutos)
+## Contenido: 12 slides (≈ 24 minutos)
 
 1. Portada y contexto
 2. Cartelera de simuladores CompanyGame
 3. Lo que ya se puede hacer hoy
 4. Alcance por programa
 5. Ficha · Administración de Empresas
-6. Ficha · Comercio Internacional
-7. Ficha · Contaduría Pública
-8. Ficha · Economía
-9. Los tres modelos de uso docente (A / B / C)
-10. Evidencia de aprendizaje
-11. Cierre y contacto
+6. Ficha · Administración de Negocios Turísticos y Hoteleros
+7. Ficha · Comercio Internacional
+8. Ficha · Contaduría Pública
+9. Ficha · Economía
+10. Los tres modelos de uso docente (A / B / C)
+11. Evidencia de aprendizaje
+12. Cierre y contacto
 
 ## Cómo verla
 
