@@ -9,7 +9,7 @@ con un simulador**, con cuál y en qué semestre.
 ## Cifras de portada
 
 - **51 asignaturas** con simulador
-- **25** de aplicación directa · **26** como apoyo al curso
+- **23** de aplicación directa · **28** como apoyo al curso
 - **28 simuladores**: 23 CompanyGame + 5 nuevos desarrollos SNC (PraxiLab)
 - **5 pregrados**: Administración de Empresas, Administración de Negocios Turísticos y
   Hoteleros, Comercio Internacional, Contaduría Pública y Economía. Cubren los semestres 1 a 8.
